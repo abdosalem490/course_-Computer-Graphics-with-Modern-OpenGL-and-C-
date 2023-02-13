@@ -1,0 +1,9 @@
+GLEW website:
+	https://glew.sourceforge.net/
+
+GLFW website:
+	https://www.glfw.org/
+
+Mac setup help:
+	https://www.youtube.com/watch?v=Tz0dq2krCW8
+
