@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\02 beginner\my code\09 clean up\openglcourseapp\window.h(16): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\02 beginner\my code\09 clean up\openglcourseapp\window.h(17): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\02 beginner\my code\09 clean up\openglcourseapp\window.h(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  OpenGLCourseApp.vcxproj -> D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\02 Beginner\my code\09 Clean Up\Debug\OpenGLCourseApp.exe
+  OpenGLCourseApp.vcxproj -> D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\02 Beginner\my code\09 Clean Up\Debug\OpenGLCourseApp.pdb (Full PDB)
