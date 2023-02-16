@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\03 The Camera\my code\01 Input with GLFW\|

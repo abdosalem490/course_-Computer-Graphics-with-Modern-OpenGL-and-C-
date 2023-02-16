@@ -1,0 +1,17 @@
+[IMPORTANT FIX] Camera Facing Random Direction
+IMPORTANT
+
+
+A common issue people have with the following lesson, is that the camera sometimes starts off facing in a random direction.
+
+This is actually a bug in the code in the lesson video! I neglected to set the "xChange" and "yChange" to 0.0f in the Window constructor, so it starts off with a garbage value for the x/y change and instantly offsets the camera.
+
+To fix this, simply set xChange and yChange to 0.0f in the two constructors for the Window class (in Window.cpp) like so:
+
+xChange = 0.0f;
+yChange = 0.0f;
+This should fix any camera issues that crop up.
+
+
+
+Sorry for the confusion this may have caused you! The downloadable code has been altered to reflect this fix.
