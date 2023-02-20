@@ -10,3 +10,19 @@ Mac setup help:
 GLM website:
 	https://glm.g-truc.net/0.9.8/index.html
 
+
+stb_image on Github:
+	https://github.com/nothings/stb/blob/master/stb_image.h
+
+Texture Repository:
+	https://www.textures.com/
+
+Ogre3D Point Light Attenuation values:
+	https://wiki.ogre3d.org/tiki-index.php?page=-Point+Light+Attenuation
+
+Assimp Website:
+	https://assimp-docs.readthedocs.io/en/v5.1.0/
+
+Free3D Website:
+	https://free3d.com/
+

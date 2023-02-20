@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\04 specular lighting\openglcourseapp\window.h(16): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\04 specular lighting\openglcourseapp\window.h(17): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\04 specular lighting\openglcourseapp\window.h(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\04 specular lighting\openglcourseapp\main.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\04 specular lighting\openglcourseapp\main.cpp(183): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  OpenGLCourseApp.vcxproj -> D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\04 Intermediate\my code\04 Specular Lighting\Debug\OpenGLCourseApp.exe
+  OpenGLCourseApp.vcxproj -> D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\04 Intermediate\my code\04 Specular Lighting\Debug\OpenGLCourseApp.pdb (Full PDB)

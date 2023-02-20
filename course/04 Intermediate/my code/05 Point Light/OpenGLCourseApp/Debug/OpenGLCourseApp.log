@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\05 point light\openglcourseapp\window.h(16): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\05 point light\openglcourseapp\window.h(17): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\05 point light\openglcourseapp\window.h(19): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\dum\courses\ben cook\computer graphics with modern opengl and c++\course\04 intermediate\my code\05 point light\openglcourseapp\main.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLCourseApp.vcxproj -> D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\04 Intermediate\my code\05 Point Light\Debug\OpenGLCourseApp.exe
+  OpenGLCourseApp.vcxproj -> D:\dum\courses\Ben Cook\Computer Graphics with Modern OpenGL and C++\course\04 Intermediate\my code\05 Point Light\Debug\OpenGLCourseApp.pdb (Full PDB)
